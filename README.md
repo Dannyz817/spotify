@@ -8,9 +8,6 @@ Este projeto foi desenvolvido durante a imersão em HTML e CSS da Alura e demons
 - CSS: Estilização avançada para recriar o visual da tela inicial do Spotify.
 - JavaScript: Adiciona interatividade básica para aprimorar a experiência do usuário.
 
-### Personalização
-Sinta-se à vontade para personalizar o projeto e adicionar suas próprias ideias! Modifique o CSS para ajustar o design, adicione novos elementos HTML ou experimente diferentes funcionalidades em JavaScript.
-
 ### Licença
 Este projeto está licenciado sob a Licença MIT.
 
